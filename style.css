@@ -1,0 +1,25 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* #mainNav {
+    background-color: #fae1dd;
+} */
+
+#logo {
+    font-size: 1.5rem;
+    color: #4f5964;
+}
+
+.mainContentContainer {
+    background-color: #fae1dd;
+}
+
+.skillsContainer i {
+    font-size: 4rem;
+}
+
+.projectsContainer img{
+    height: 300px;
+    width: 300px;
+}
